@@ -1,0 +1,11 @@
+drug,targets,class,rationale,targets_in_signature,n_sig_hits
+Navitoclax (ABT-263),"BCL2, BCL2L1, BCL2L11",senolytic,PI 裁定不进主线,无直接靶点,0
+Dasatinib+Quercetin,"STAT3, SRC, EGFR",senolytic,PI 裁定不进主线,无直接靶点,0
+Ruxolitinib,"JAK1, JAK2",senomorphic,JAK-STAT 通路 = Stat1/Stat2 persistent regulon 的上游,无直接靶点,0
+Tofacitinib,"JAK1, JAK3",senomorphic,"同上, JAK 抑制",无直接靶点,0
+Metformin,"AMPK, mTOR",senomorphic,AMPK 激活 → 抑制 SASP 转录,无直接靶点,0
+Rapamycin,mTOR,senomorphic,mTOR 抑制 → 减少 SASP 翻译,无直接靶点,0
+SLC25A1 抑制,SLC25A1,senomorphic,Nat 2026 (PMID 42527602): 乙酰-CoA 供给 = SASP 必要条件,无直接靶点,0
+Anti-CD47,CD47,immune clearance,促进衰老细胞被吞噬,无直接靶点,0
+A-1155463,BCL2L1,senomorphic (BH3 mimetic),BCL-XL 选择性抑制 → senescent 细胞应激,无直接靶点,0
+S63845,MCL1,MCL-1 inhibitor,⚠️ 急性 p21+ 小胶质 Mcl1-high → 清除可能有害 (Valdivieso 2026),无直接靶点,0

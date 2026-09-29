@@ -1,0 +1,248 @@
+gene_set,gene
+"Composite_pilot (custom, this study)",Acvr1b
+"Composite_pilot (custom, this study)",Aldh1a3
+"Composite_pilot (custom, this study)",Ang
+"Composite_pilot (custom, this study)",Angpt1
+"Composite_pilot (custom, this study)",Angptl4
+"Composite_pilot (custom, this study)",Anpep
+"Composite_pilot (custom, this study)",Bcl2
+"Composite_pilot (custom, this study)",Bcl2l1
+"Composite_pilot (custom, this study)",Bcl2l2
+"Composite_pilot (custom, this study)",Ccl2
+"Composite_pilot (custom, this study)",Ccl20
+"Composite_pilot (custom, this study)",Ccl26
+"Composite_pilot (custom, this study)",Ccl3
+"Composite_pilot (custom, this study)",Ccl4
+"Composite_pilot (custom, this study)",Ccl5
+"Composite_pilot (custom, this study)",Ccl7
+"Composite_pilot (custom, this study)",Ccl8
+"Composite_pilot (custom, this study)",Cd55
+"Composite_pilot (custom, this study)",Cd9
+"Composite_pilot (custom, this study)",Cdkn1a
+"Composite_pilot (custom, this study)",Cdkn2a
+"Composite_pilot (custom, this study)",Cdkn2b
+"Composite_pilot (custom, this study)",Csf1
+"Composite_pilot (custom, this study)",Csf2
+"Composite_pilot (custom, this study)",Csf2rb
+"Composite_pilot (custom, this study)",Ctsb
+"Composite_pilot (custom, this study)",Cxcl1
+"Composite_pilot (custom, this study)",Cxcl10
+"Composite_pilot (custom, this study)",Cxcl12
+"Composite_pilot (custom, this study)",Cxcl16
+"Composite_pilot (custom, this study)",Cxcl2
+"Composite_pilot (custom, this study)",Cxcl3
+"Composite_pilot (custom, this study)",Cxcl5
+"Composite_pilot (custom, this study)",Egfr
+"Composite_pilot (custom, this study)",Ereg
+"Composite_pilot (custom, this study)",Esm1
+"Composite_pilot (custom, this study)",Etv5
+"Composite_pilot (custom, this study)",F3
+"Composite_pilot (custom, this study)",Fancd2
+"Composite_pilot (custom, this study)",Fgf2
+"Composite_pilot (custom, this study)",Fgf7
+"Composite_pilot (custom, this study)",Gdf15
+"Composite_pilot (custom, this study)",Gem
+"Composite_pilot (custom, this study)",H2afx
+"Composite_pilot (custom, this study)",Hmga1
+"Composite_pilot (custom, this study)",Hmga2
+"Composite_pilot (custom, this study)",Hmox1
+"Composite_pilot (custom, this study)",Icam1
+"Composite_pilot (custom, this study)",Igfbp2
+"Composite_pilot (custom, this study)",Igfbp3
+"Composite_pilot (custom, this study)",Igfbp4
+"Composite_pilot (custom, this study)",Igfbp5
+"Composite_pilot (custom, this study)",Igfbp6
+"Composite_pilot (custom, this study)",Igfbp7
+"Composite_pilot (custom, this study)",Il15
+"Composite_pilot (custom, this study)",Il18
+"Composite_pilot (custom, this study)",Il1a
+"Composite_pilot (custom, this study)",Il1b
+"Composite_pilot (custom, this study)",Il6
+"Composite_pilot (custom, this study)",Il6st
+"Composite_pilot (custom, this study)",Inha
+"Composite_pilot (custom, this study)",Inhba
+"Composite_pilot (custom, this study)",Itga2
+"Composite_pilot (custom, this study)",Jun
+"Composite_pilot (custom, this study)",Kitl
+"Composite_pilot (custom, this study)",Mcl1
+"Composite_pilot (custom, this study)",Mdm2
+"Composite_pilot (custom, this study)",Mif
+"Composite_pilot (custom, this study)",Mmp12
+"Composite_pilot (custom, this study)",Mmp13
+"Composite_pilot (custom, this study)",Mmp14
+"Composite_pilot (custom, this study)",Mmp2
+"Composite_pilot (custom, this study)",Mmp3
+"Composite_pilot (custom, this study)",Mmp9
+"Composite_pilot (custom, this study)",Mt2
+"Composite_pilot (custom, this study)",Nrg1
+"Composite_pilot (custom, this study)",Pappa
+"Composite_pilot (custom, this study)",Pdk1
+"Composite_pilot (custom, this study)",Pecam1
+"Composite_pilot (custom, this study)",Pgf
+"Composite_pilot (custom, this study)",Plat
+"Composite_pilot (custom, this study)",Plau
+"Composite_pilot (custom, this study)",Plaur
+"Composite_pilot (custom, this study)",Ptger2
+"Composite_pilot (custom, this study)",Ptges
+"Composite_pilot (custom, this study)",Rad21
+"Composite_pilot (custom, this study)",Rela
+"Composite_pilot (custom, this study)",Selplg
+"Composite_pilot (custom, this study)",Serpine1
+"Composite_pilot (custom, this study)",Serpinf1
+"Composite_pilot (custom, this study)",Sod1
+"Composite_pilot (custom, this study)",Timp1
+"Composite_pilot (custom, this study)",Timp2
+"Composite_pilot (custom, this study)",Tnf
+"Composite_pilot (custom, this study)",Tnfrsf11b
+"Composite_pilot (custom, this study)",Tnfrsf1a
+"Composite_pilot (custom, this study)",Tnfrsf1b
+"Composite_pilot (custom, this study)",Trp53
+"Composite_pilot (custom, this study)",Vegfa
+"Composite_pilot (custom, this study)",Vegfc
+"Composite_pilot (custom, this study)",Wrn
+CoreArrest_pilot (custom),Cdkn1a
+CoreArrest_pilot (custom),Cdkn2a
+CoreArrest_pilot (custom),Cdkn2b
+CoreArrest_pilot (custom),Trp53
+CoreArrest_pilot (custom),H2afx
+CoreArrest_pilot (custom),Mdm2
+CoreArrest_pilot (custom),Wrn
+CoreArrest_pilot (custom),Rad21
+CoreArrest_pilot (custom),Fancd2
+CoreArrest_pilot (custom),Bcl2
+CoreArrest_pilot (custom),Bcl2l1
+CoreArrest_pilot (custom),Bcl2l2
+CoreArrest_pilot (custom),Mcl1
+CellAge-derived (custom),Cdkn1a
+CellAge-derived (custom),Cdkn2a
+CellAge-derived (custom),Cdkn2b
+CellAge-derived (custom),Trp53
+CellAge-derived (custom),Rb1
+CellAge-derived (custom),Glb1
+CellAge-derived (custom),Serpine1
+CellAge-derived (custom),Lmnb1
+CellAge-derived (custom),Mki67
+CellAge-derived (custom),Ccnb1
+CellAge-derived (custom),Cdk1
+CellAge-derived (custom),Top2a
+CellAge-derived (custom),Ezh2
+CellAge-derived (custom),Hmga1
+CellAge-derived (custom),Hmga2
+"SenMayo_real (Saul 2022, 118 mouse)",Acvr1b
+"SenMayo_real (Saul 2022, 118 mouse)",Ang
+"SenMayo_real (Saul 2022, 118 mouse)",Angpt1
+"SenMayo_real (Saul 2022, 118 mouse)",Angptl4
+"SenMayo_real (Saul 2022, 118 mouse)",Areg
+"SenMayo_real (Saul 2022, 118 mouse)",Axl
+"SenMayo_real (Saul 2022, 118 mouse)",Bex3
+"SenMayo_real (Saul 2022, 118 mouse)",Bmp2
+"SenMayo_real (Saul 2022, 118 mouse)",Bmp6
+"SenMayo_real (Saul 2022, 118 mouse)",C3
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl1
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl2
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl20
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl24
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl26
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl3
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl4
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl5
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl7
+"SenMayo_real (Saul 2022, 118 mouse)",Ccl8
+"SenMayo_real (Saul 2022, 118 mouse)",Cd55
+"SenMayo_real (Saul 2022, 118 mouse)",Cd9
+"SenMayo_real (Saul 2022, 118 mouse)",Csf1
+"SenMayo_real (Saul 2022, 118 mouse)",Csf2
+"SenMayo_real (Saul 2022, 118 mouse)",Csf2rb
+"SenMayo_real (Saul 2022, 118 mouse)",Cst10
+"SenMayo_real (Saul 2022, 118 mouse)",Ctnnb1
+"SenMayo_real (Saul 2022, 118 mouse)",Ctsb
+"SenMayo_real (Saul 2022, 118 mouse)",Cxcl1
+"SenMayo_real (Saul 2022, 118 mouse)",Cxcl10
+"SenMayo_real (Saul 2022, 118 mouse)",Cxcl12
+"SenMayo_real (Saul 2022, 118 mouse)",Cxcl16
+"SenMayo_real (Saul 2022, 118 mouse)",Cxcl2
+"SenMayo_real (Saul 2022, 118 mouse)",Cxcl3
+"SenMayo_real (Saul 2022, 118 mouse)",Cxcr2
+"SenMayo_real (Saul 2022, 118 mouse)",Dkk1
+"SenMayo_real (Saul 2022, 118 mouse)",Edn1
+"SenMayo_real (Saul 2022, 118 mouse)",Egf
+"SenMayo_real (Saul 2022, 118 mouse)",Egfr
+"SenMayo_real (Saul 2022, 118 mouse)",Ereg
+"SenMayo_real (Saul 2022, 118 mouse)",Esm1
+"SenMayo_real (Saul 2022, 118 mouse)",Ets2
+"SenMayo_real (Saul 2022, 118 mouse)",Fas
+"SenMayo_real (Saul 2022, 118 mouse)",Fgf1
+"SenMayo_real (Saul 2022, 118 mouse)",Fgf2
+"SenMayo_real (Saul 2022, 118 mouse)",Fgf7
+"SenMayo_real (Saul 2022, 118 mouse)",Gdf15
+"SenMayo_real (Saul 2022, 118 mouse)",Gem
+"SenMayo_real (Saul 2022, 118 mouse)",Gmfg
+"SenMayo_real (Saul 2022, 118 mouse)",Hgf
+"SenMayo_real (Saul 2022, 118 mouse)",Hmgb1
+"SenMayo_real (Saul 2022, 118 mouse)",Icam1
+"SenMayo_real (Saul 2022, 118 mouse)",Icam5
+"SenMayo_real (Saul 2022, 118 mouse)",Igf1
+"SenMayo_real (Saul 2022, 118 mouse)",Igfbp1
+"SenMayo_real (Saul 2022, 118 mouse)",Igfbp2
+"SenMayo_real (Saul 2022, 118 mouse)",Igfbp3
+"SenMayo_real (Saul 2022, 118 mouse)",Igfbp4
+"SenMayo_real (Saul 2022, 118 mouse)",Igfbp5
+"SenMayo_real (Saul 2022, 118 mouse)",Igfbp6
+"SenMayo_real (Saul 2022, 118 mouse)",Igfbp7
+"SenMayo_real (Saul 2022, 118 mouse)",Il10
+"SenMayo_real (Saul 2022, 118 mouse)",Il13
+"SenMayo_real (Saul 2022, 118 mouse)",Il15
+"SenMayo_real (Saul 2022, 118 mouse)",Il18
+"SenMayo_real (Saul 2022, 118 mouse)",Il1a
+"SenMayo_real (Saul 2022, 118 mouse)",Il1b
+"SenMayo_real (Saul 2022, 118 mouse)",Il2
+"SenMayo_real (Saul 2022, 118 mouse)",Il6
+"SenMayo_real (Saul 2022, 118 mouse)",Il6st
+"SenMayo_real (Saul 2022, 118 mouse)",Il7
+"SenMayo_real (Saul 2022, 118 mouse)",Inha
+"SenMayo_real (Saul 2022, 118 mouse)",Iqgap2
+"SenMayo_real (Saul 2022, 118 mouse)",Itga2
+"SenMayo_real (Saul 2022, 118 mouse)",Itpka
+"SenMayo_real (Saul 2022, 118 mouse)",Jun
+"SenMayo_real (Saul 2022, 118 mouse)",Kitl
+"SenMayo_real (Saul 2022, 118 mouse)",Lcp1
+"SenMayo_real (Saul 2022, 118 mouse)",Mif
+"SenMayo_real (Saul 2022, 118 mouse)",Mmp10
+"SenMayo_real (Saul 2022, 118 mouse)",Mmp12
+"SenMayo_real (Saul 2022, 118 mouse)",Mmp13
+"SenMayo_real (Saul 2022, 118 mouse)",Mmp14
+"SenMayo_real (Saul 2022, 118 mouse)",Mmp2
+"SenMayo_real (Saul 2022, 118 mouse)",Mmp3
+"SenMayo_real (Saul 2022, 118 mouse)",Mmp9
+"SenMayo_real (Saul 2022, 118 mouse)",Nap1l4
+"SenMayo_real (Saul 2022, 118 mouse)",Nrg1
+"SenMayo_real (Saul 2022, 118 mouse)",Pappa
+"SenMayo_real (Saul 2022, 118 mouse)",Pecam1
+"SenMayo_real (Saul 2022, 118 mouse)",Pgf
+"SenMayo_real (Saul 2022, 118 mouse)",Pigf
+"SenMayo_real (Saul 2022, 118 mouse)",Plat
+"SenMayo_real (Saul 2022, 118 mouse)",Plau
+"SenMayo_real (Saul 2022, 118 mouse)",Plaur
+"SenMayo_real (Saul 2022, 118 mouse)",Ptbp1
+"SenMayo_real (Saul 2022, 118 mouse)",Ptger2
+"SenMayo_real (Saul 2022, 118 mouse)",Ptges
+"SenMayo_real (Saul 2022, 118 mouse)",Rps6ka5
+"SenMayo_real (Saul 2022, 118 mouse)",Scamp4
+"SenMayo_real (Saul 2022, 118 mouse)",Selplg
+"SenMayo_real (Saul 2022, 118 mouse)",Sema3f
+"SenMayo_real (Saul 2022, 118 mouse)",Serpinb3a
+"SenMayo_real (Saul 2022, 118 mouse)",Serpine1
+"SenMayo_real (Saul 2022, 118 mouse)",Serpine2
+"SenMayo_real (Saul 2022, 118 mouse)",Spp1
+"SenMayo_real (Saul 2022, 118 mouse)",Spx
+"SenMayo_real (Saul 2022, 118 mouse)",Timp2
+"SenMayo_real (Saul 2022, 118 mouse)",Tnf
+"SenMayo_real (Saul 2022, 118 mouse)",Tnfrsf11b
+"SenMayo_real (Saul 2022, 118 mouse)",Tnfrsf1a
+"SenMayo_real (Saul 2022, 118 mouse)",Tnfrsf1b
+"SenMayo_real (Saul 2022, 118 mouse)",Tubgcp2
+"SenMayo_real (Saul 2022, 118 mouse)",Vegfa
+"SenMayo_real (Saul 2022, 118 mouse)",Vegfc
+"SenMayo_real (Saul 2022, 118 mouse)",Vgf
+"SenMayo_real (Saul 2022, 118 mouse)",Wnt16
+"SenMayo_real (Saul 2022, 118 mouse)",Wnt2

@@ -1,0 +1,7 @@
+set,gene,n_pos,pct_k1,pct_k2,pct_k3plus,max_k
+GSE269748_MG_24h,Cdkn1a,11474,43.1,18.5,38.4,68
+GSE269748_MG_24h,Cdkn2a,136,95.6,4.4,0.0,2
+GSE269748_MG_6mo,Cdkn1a,921,58.0,20.0,22.0,58
+GSE269748_MG_6mo,Cdkn2a,27,92.6,7.4,0.0,2
+GSE271769_MG_all,Cdkn1a,23759,100.0,0.0,0.0,1
+GSE271769_MG_all,Cdkn2a,177,100.0,0.0,0.0,1
